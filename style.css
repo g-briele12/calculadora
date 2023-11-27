@@ -1,4 +1,4 @@
-.titulo{text-align: center;}
+.título{text-align: center;}
 .calculator {
     width: 300px;
     margin: 0 auto;
@@ -29,7 +29,7 @@ button {
     border: none;
  }
   button:hover{ 
-background-color: rgb(238, 6, 238)240, 255);
+background-color: rgb(238, 6, 238);
   }
   button:active{
 background-color: rgb(15, 15, 15);   
